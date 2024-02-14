@@ -21,5 +21,3 @@ player.extractors.loadDefault();
 
 
 require('./src/loader');
-
-client.login('MTE5ODAwMzU3NTMzNTQzMjM4Mg.GggQ0i.gNnvg-o82UftYw-A08AL7ABHSPQrAlO_Zc27es');
